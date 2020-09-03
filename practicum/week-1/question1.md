@@ -2,7 +2,7 @@
 2. Create a database and name it as ISTA495.practicum
 3. Ctreat the following table:
   - table name: world
-  - table columns: id, country, population, area, migrants,fertility,medianage,urbanpopulation. 
+  - table columns: id, country, population, area, migrants,fertility,medianage,urbanpopulation(id is a number, everything else is a string). 
 4. Populate the world table using the csv file included in this folder
 
 Hint:
